@@ -13,7 +13,7 @@ fetch请求数据
 # 此代码为前端界面展示
 ## 修改main.js中的url地址为请求的后台接口地址即可
 
-###项目图
+## 项目图
 ![Image text](https://raw.githubusercontent.com/php-zy/mintUI/master/src/assets/20190613101621.png)
 ![Image text](https://raw.githubusercontent.com/php-zy/mintUI/master/src/assets/20190613101832.png)
 ![Image text](https://raw.githubusercontent.com/php-zy/mintUI/master/src/assets/20190613101839.png)
