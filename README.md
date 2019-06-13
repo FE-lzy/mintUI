@@ -14,13 +14,9 @@ fetch请求数据
 ## 修改main.js中的url地址为请求的后台接口地址即可
 
 ###项目图
-####首页
 ![Image text](https://raw.githubusercontent.com/php-zy/mintUI/master/src/assets/20190613101621.png)
-####城市选择
 ![Image text](https://raw.githubusercontent.com/php-zy/mintUI/master/src/assets/20190613101832.png)
-####景点详情
 ![Image text](https://raw.githubusercontent.com/php-zy/mintUI/master/src/assets/20190613101839.png)
-####登录
 ![Image text](https://raw.githubusercontent.com/php-zy/mintUI/master/src/assets/20190613101844.png)
 
 
