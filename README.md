@@ -11,7 +11,7 @@
 fetch请求数据
 
 # 此代码为前端界面展示
-## 后端代码地址 https://github.com/php-zy/Express
+## 后端代码地址 https://github.com/FE-lzy/Express
 ## 修改main.js中的url地址为请求的后台接口地址即可
 
 ## 项目图
